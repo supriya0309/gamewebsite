@@ -1,0 +1,93 @@
+body{
+	background-image:url('https://static.vecteezy.com/system/resources/previews/000/550/499/original/cartoon-forest-hill-landscape-vector-nature-background-illustration.jpg');
+	padding-bottom:170px;
+	background-repeat:no-repeat;
+	background-position: left-bottom;
+	background-size: 100% 100%;
+}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#00aaff;
+	text-align:center;
+}
+li{
+	float:left;
+	font-size:20px;
+}
+li a{
+    display:block;
+	color:white;
+	text-align:center;
+	padding:10px 30px;
+	text-decoration:none;
+}
+li a:hover{
+	background-color:white;
+	color:darkblue;
+}
+h1{
+	width:100%;
+	color: #adad85;
+	font-family:Lato;
+	font-size:45px;
+	text-align:center;
+	text-shadow:1px 2px gray;
+}
+h2{
+	font-size:20px;
+	color:darkblue;
+	text-align:center;
+	margin:50px;
+	font-family:Lato;
+	
+	
+}
+	table{
+		font-family:Lato;
+		border-collapse:collapse;
+		width:60%;
+		text-align:center;
+		margin-top:1px;
+		padding-bottom:120px;
+		
+	}
+th{
+font-size:20px;
+text-align:left;
+padding-top:8px;
+background-color:#408000;	
+}
+td{
+font-size:20px;
+text-align:left;
+padding-top:8px;
+}
+tr:nth-child(odd){
+
+background-color:#ff7733;
+}
+tr:nth-child(even){
+
+background-color: #ffdb4d;
+}
+
+.footer{
+position:fixed;
+left:0;
+bottom:0;
+width:100%;
+background-color:#00b33c;
+
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
